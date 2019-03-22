@@ -10,11 +10,11 @@ There are 14 columns in the data set, where the patient_id column is a unique an
 
 * Here are files with *Neural Networks* as well as *Random Forest* approaches in .ipynb and .py format to solve this problem. 
 
-However, this codes need further improvements in order to be more precise and accurate.
+However, these functions need further improvements in order to be more precise and accurate.
 
 ![](https://github.com/AigerimJ/heart_disease/blob/master/2.png)
 
 
-[More about HackNU](http://hacknu.kz)
+[More about HackNU 2019](http://hacknu.kz)
 
 
