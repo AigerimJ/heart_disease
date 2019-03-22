@@ -12,7 +12,7 @@ There are 14 columns in the data set, where the patient_id column is a unique an
 
 However, this codes need further improvements in order to be more precise and accurate.
 
-![](https://github.com/AigerimJ/heart_disease/blob/master/2.png)
+![](img align="center" width="100" height="100" src="https://github.com/AigerimJ/heart_disease/blob/master/2.png")
 ![](https://github.com/AigerimJ/heart_disease/blob/master/1.png)
 
 
